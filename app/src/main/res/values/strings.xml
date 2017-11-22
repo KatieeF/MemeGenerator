@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meme Generator</string>
+    <string name="share_meme">Share meme</string>
+    <string name="gallery_permission_denied">Permission to the gallery has been denied</string>
+</resources>
